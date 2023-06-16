@@ -1,0 +1,4 @@
+Ivan,Ivanov,Ivanovich,8777455236
+Dmitriy,Kozlov,Sergeevich,8745541236
+Petrov,Petr,Petrovich,87452366146
+Zhalgas,Bazarbayev,Bazarbekovich,87071164241
